@@ -94,6 +94,10 @@ A sample dataset (`irctc_tour_packages.csv`) includes:
 
 ---
 
+## Contact
+
+You can reach me through my LinkedIn profile: [Sravani Paleti](https://www.linkedin.com/in/sravani-paleti-1082081a7)
+
 ## 🚀 How to Run This Project
 
 ### 🔹 Option 1: Run in Google Colab
@@ -108,7 +112,5 @@ git clone https://github.com/yourusername/IRCTC-Tourism-Analysis.git
 cd IRCTC-Tourism-Analysis
 📘 License
 This project is licensed under the MIT License – feel free to use or modify it for educational or research purposes.
-## Contact
 
-You can reach me through my LinkedIn profile: [Sravani Paleti](https://www.linkedin.com/in/sravani-paleti-1082081a7)
 
