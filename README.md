@@ -68,7 +68,7 @@ A sample dataset (`irctc_tour_packages.csv`) includes:
 ---
 
 ### 4. Tour Category Distribution
-![Tour Categories](Tour%20Category%20Distribution.jpeg)
+![Tour Categories](Tour%20Category%20Distribition.jpeg)
 
 ---
 
